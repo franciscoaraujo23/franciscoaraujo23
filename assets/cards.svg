@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="What I build">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <!-- card 1 -->
+    <rect x="0" y="0" width="320" height="190" rx="16" fill="#0f172a"/>
+    <rect x="0" y="0" width="320" height="190" rx="16" fill="none" stroke="#334155"/>
+    <rect x="24" y="26" width="36" height="4" rx="2" fill="url(#accent)"/>
+    <text x="24" y="66" font-size="19" font-weight="700" fill="#f8fafc">AI agents</text>
+    <text x="24" y="98" font-size="14" fill="#94a3b8">Agents and workflow automation</text>
+    <text x="24" y="120" font-size="14" fill="#94a3b8">with n8n, FastAPI and Postgres.</text>
+    <text x="24" y="156" font-size="12" fill="#2dd4bf" font-weight="600" letter-spacing="1">IDEMPOTENT  ·  COST CAPPED</text>
+
+    <!-- card 2 -->
+    <rect x="340" y="0" width="320" height="190" rx="16" fill="#0f172a"/>
+    <rect x="340" y="0" width="320" height="190" rx="16" fill="none" stroke="#334155"/>
+    <rect x="364" y="26" width="36" height="4" rx="2" fill="url(#accent)"/>
+    <text x="364" y="66" font-size="19" font-weight="700" fill="#f8fafc">Outreach pipelines</text>
+    <text x="364" y="98" font-size="14" fill="#94a3b8">Prospecting, qualification and</text>
+    <text x="364" y="120" font-size="14" fill="#94a3b8">email drafts, with a human in the loop.</text>
+    <text x="364" y="156" font-size="12" fill="#818cf8" font-weight="600" letter-spacing="1">HUMAN APPROVES  ·  AUDITED</text>
+
+    <!-- card 3 -->
+    <rect x="680" y="0" width="320" height="190" rx="16" fill="#0f172a"/>
+    <rect x="680" y="0" width="320" height="190" rx="16" fill="none" stroke="#334155"/>
+    <rect x="704" y="26" width="36" height="4" rx="2" fill="url(#accent)"/>
+    <text x="704" y="66" font-size="19" font-weight="700" fill="#f8fafc">Infra and security</text>
+    <text x="704" y="98" font-size="14" fill="#94a3b8">Self-hosted setups hardened with</text>
+    <text x="704" y="120" font-size="14" fill="#94a3b8">Linux, Docker, Coolify and SSH.</text>
+    <text x="704" y="156" font-size="12" fill="#2dd4bf" font-weight="600" letter-spacing="1">LEAST PRIVILEGE  ·  LOGGED</text>
+  </g>
+</svg>

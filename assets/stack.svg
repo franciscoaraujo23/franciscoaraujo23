@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" role="img" aria-label="Stack: n8n, FastAPI, Postgres, Docker, Linux, Coolify">
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle" fill="#e2e8f0">
+    <rect x="0.5" y="12.5" width="130" height="40" rx="20" fill="#0f172a" stroke="#2dd4bf" stroke-opacity="0.6"/>
+    <text x="65" y="38">n8n</text>
+    <rect x="150.5" y="12.5" width="150" height="40" rx="20" fill="#0f172a" stroke="#818cf8" stroke-opacity="0.7"/>
+    <text x="225" y="38">FastAPI</text>
+    <rect x="320.5" y="12.5" width="150" height="40" rx="20" fill="#0f172a" stroke="#2dd4bf" stroke-opacity="0.6"/>
+    <text x="395" y="38">Postgres</text>
+    <rect x="490.5" y="12.5" width="140" height="40" rx="20" fill="#0f172a" stroke="#818cf8" stroke-opacity="0.7"/>
+    <text x="560" y="38">Docker</text>
+    <rect x="650.5" y="12.5" width="130" height="40" rx="20" fill="#0f172a" stroke="#2dd4bf" stroke-opacity="0.6"/>
+    <text x="715" y="38">Linux</text>
+    <rect x="800.5" y="12.5" width="150" height="40" rx="20" fill="#0f172a" stroke="#818cf8" stroke-opacity="0.7"/>
+    <text x="875" y="38">Coolify</text>
+  </g>
+</svg>
