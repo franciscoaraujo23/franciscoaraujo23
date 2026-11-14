@@ -35,8 +35,9 @@
     <!-- right: the model call is one small step inside a system of guards -->
     <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle">
       <path d="M570 150 H950" stroke="#475569" stroke-width="2" fill="none"/>
-      <circle r="4.5" fill="#2dd4bf">
-        <animateMotion dur="4s" repeatCount="indefinite" path="M570 150 H950"/>
+      <circle r="4.5" fill="#2dd4bf" opacity="0">
+        <animateMotion dur="4s" repeatCount="indefinite" path="M640 150 H870"/>
+        <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;0.08;0.92;1"/>
       </circle>
 
       <rect x="570" y="130" width="70" height="40" rx="10" fill="#0f172a" stroke="#2dd4bf" stroke-opacity="0.7"/>
