@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v2.svg" alt="Francisco Araújo, AI systems engineer. I build AI systems that hold up after the demo." width="100%">
+<img src="assets/banner-v3.svg" alt="Francisco Araújo, AI systems engineer. I build AI systems that hold up after the demo." width="100%">
 
 <br>
 
