@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Francisco Araújo, AI systems engineer" width="100%">
+<img src="assets/banner.svg" alt="Francisco Araújo, AI systems engineer. I build AI systems that hold up after the demo." width="100%">
 
 <br>
 
-**Available for freelance work.** I automate the repetitive parts of prospecting and lead handling, and a person approves anything that goes out to a customer.
+**Available for freelance projects in AI agents and business automation.**
+I build the systems around the model call: the part that decides whether an agent survives real use.
 
-Under the hood, I build AI agents that hold up in production: idempotent runs, cost limits, audit logs and clear security boundaries around anything that touches a shell, an inbox or a CRM.
-
-<a href="https://franciscoaraujo.eu"><img alt="Website: franciscoaraujo.eu" src="https://img.shields.io/badge/Website-franciscoaraujo.eu-2dd4bf?style=flat-square&labelColor=0f172a"></a>
-<a href="mailto:hello@franciscoaraujo.eu"><img alt="Email: hello@franciscoaraujo.eu" src="https://img.shields.io/badge/Email-hello%40franciscoaraujo.eu-818cf8?style=flat-square&labelColor=0f172a"></a>
+<a href="https://franciscoaraujo.eu"><img src="assets/btn-website.svg" alt="Website: franciscoaraujo.eu" height="46"></a>&nbsp;&nbsp;<a href="mailto:hello@franciscoaraujo.eu"><img src="assets/btn-email.svg" alt="Email: hello@franciscoaraujo.eu" height="46"></a>
 
 </div>
 
 <br>
 
-## What I build
+## Problems I solve
 
-<img src="assets/cards.svg" alt="AI agents, outreach pipelines, infra and security" width="100%">
+Any business process that needs an AI agent or automation, not only the examples further down. The problems repeat from project to project, and so does the fix.
+
+<img src="assets/cards.svg" alt="Duplicate runs, runaway costs, no audit trail, risky autonomy" width="100%">
 
 <br>
 
@@ -27,18 +27,24 @@ Under the hood, I build AI agents that hold up in production: idempotent runs, c
 
 <br>
 
-## Selected work
+## Examples of the work
 
-The three pinned repositories below cover one pipeline end to end: finding companies, qualifying them, and drafting outreach that a person reviews and sends.
+These are where I proved the approach, not the limit of what I take on. The three pinned repositories below cover one pipeline end to end: finding companies, qualifying them, and drafting outreach that a person reviews and sends.
 
 Also worth a read: [hermes-agent-security-audit](https://github.com/franciscoaraujo23/hermes-agent-security-audit), a security audit of a self-hosted autonomous AI agent with shell access, with three fixes shown before and after.
 
-More case studies on [franciscoaraujo.eu](https://franciscoaraujo.eu).
+Full case studies on [franciscoaraujo.eu](https://franciscoaraujo.eu).
+
+<br>
+
+## Work with me
+
+Have a system that needs to hold up in production? Tell me what it should do and what must never go wrong: [hello@franciscoaraujo.eu](mailto:hello@franciscoaraujo.eu).
 
 <br>
 
 <div align="center">
 
-Based in Porto, Portugal. I work in English and Portuguese. Co-founder at Nautica AI.
+Based in Portugal, working remotely in English and Portuguese. Co-founder and technical lead at Nautica AI.
 
 </div>
