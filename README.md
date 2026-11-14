@@ -4,10 +4,12 @@
 
 <br>
 
-**Available for freelance work.** I build AI agents and automation that hold up in production: idempotent runs, cost limits, audit logs and clear security boundaries around anything that touches a shell, an inbox or a CRM.
+**Available for freelance work.** I automate the repetitive parts of prospecting and lead handling, and a person approves anything that goes out to a customer.
 
-<a href="https://franciscoaraujo.eu"><img alt="Website" src="https://img.shields.io/badge/Website-franciscoaraujo.eu-2dd4bf?style=for-the-badge&labelColor=0f172a"></a>
-<a href="mailto:hello@franciscoaraujo.eu"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40franciscoaraujo.eu-818cf8?style=for-the-badge&labelColor=0f172a"></a>
+Under the hood, I build AI agents that hold up in production: idempotent runs, cost limits, audit logs and clear security boundaries around anything that touches a shell, an inbox or a CRM.
+
+<a href="https://franciscoaraujo.eu"><img alt="Website: franciscoaraujo.eu" src="https://img.shields.io/badge/Website-franciscoaraujo.eu-2dd4bf?style=flat-square&labelColor=0f172a"></a>
+<a href="mailto:hello@franciscoaraujo.eu"><img alt="Email: hello@franciscoaraujo.eu" src="https://img.shields.io/badge/Email-hello%40franciscoaraujo.eu-818cf8?style=flat-square&labelColor=0f172a"></a>
 
 </div>
 
@@ -27,14 +29,11 @@
 
 ## Selected work
 
-| Project | What it is |
-| --- | --- |
-| [lead-qualifier-agent](https://github.com/franciscoaraujo23/lead-qualifier-agent) | Agent that qualifies inbound leads |
-| [n8n-b2b-lead-generation](https://github.com/franciscoaraujo23/n8n-b2b-lead-generation) | n8n workflow for B2B prospecting |
-| [n8n-b2b-email-outreach](https://github.com/franciscoaraujo23/n8n-b2b-email-outreach) | n8n workflow for email outreach with approval |
-| [hermes-agent-security-audit](https://github.com/franciscoaraujo23/hermes-agent-security-audit) | Security audit of an autonomous agent with shell access |
+The three pinned repositories below cover one pipeline end to end: finding companies, qualifying them, and drafting outreach that a person reviews and sends.
 
-More case studies, with the numbers behind them, on [franciscoaraujo.eu](https://franciscoaraujo.eu).
+Also worth a read: [hermes-agent-security-audit](https://github.com/franciscoaraujo23/hermes-agent-security-audit), a security audit of a self-hosted autonomous AI agent with shell access, with three fixes shown before and after.
+
+More case studies on [franciscoaraujo.eu](https://franciscoaraujo.eu).
 
 <br>
 
